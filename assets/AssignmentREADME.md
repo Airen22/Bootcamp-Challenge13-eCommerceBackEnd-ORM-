@@ -64,11 +64,11 @@ Your database should contain the following four models, including the requiremen
 
   * `id`
 
-    * Integer.
+    * *Integer.
   
-    * Doesn't allow null values.
+    * *Doesn't allow null values.
   
-    * Set as primary key.
+    * *Set as primary key.
   
     * Uses auto increment.
 
